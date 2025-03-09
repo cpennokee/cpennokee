@@ -2,13 +2,14 @@
 This is my profile README.
 
 
-<h1>Links</h1>
+<h2>Links</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/christian-pennokee-b6b327228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
+<h2>Random</h2>
 - 🔭 I’m currently working on ricing my Arch Linux install.
 - 🌱 I’m currently learning how to build ASP.NET Core WebAPI projects. 
 
