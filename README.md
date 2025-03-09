@@ -1,4 +1,10 @@
-## Hi there 👋
+##Hello! My name is Christian Pennokee, and I'm a programmer. This is my profile README.
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/christian-pennokee-b6b327228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **cpennokee/cpennokee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
